@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch
 
-This repo contains notebooks and related code for Convolutional neural network from Udacity's Deep Learning with PyTorch lesson . This lesson appears in our [AI Programming with Python Nanodegree program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
+This repo contains notebooks and related code for Convolutional neural network from Udacity's Deep Learning with PyTorch lesson . This lesson appears in our [Deep Learning Nanodegree by Udacity]( It was a part of Deep learning Nanodegree by [Udacity](https://udacity.com).  
 
 * **mnist_mlp_implementation:** Train an MLP to classify images  
 * **cnn-weight-initialization:** Learn how to find good initial weights  
